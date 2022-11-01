@@ -1,23 +1,23 @@
 const { modul } = require('../Edit/module');
 const { chalk, fs, proces } = modul;
 
-global.ownerNumber = ["6282399255216@s.whatsapp.net"]
-global.namabotnya = 'Cyber Is Real'
-global.namaownernya = 'Cyber Executed'
-global.packname = '\n\n\n\n\n\n\n\n\n\n© Cyber||+62🇲🇨\nI`m From Indonesia\n\n\n\n\n\n\n\n\n\n'
+global.ownerNumber = ["6285730795089@s.whatsapp.net"]
+global.namabotnya = 'Bug Botz'
+global.namaownernya = '😎🤟'
+global.packname = '\n\n\n\n\n\n\n\n\n\n© Hehe||+62🇲🇨\nI`m From Indonesia\n\n\n\n\n\n\n\n\n\n'
 global.author = '\n\n\n\n\n\n\n\n\n\nWa : 0823-9925-5216\nYT : Cyber S-C-D-B\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'CyberExe'
 global.lolkey = 'Atakbotz'
 global.dapkey = 'Kirbotz123'
 global.kirkey = 'KirBotz'
-global.email = 'id3026799@gmail.com'
-global.group = 'https://bit.ly/38oNU0D'
-global.youtube = 'https://bit.ly/39Ivus6'
-global.website = 'https://bit.ly/3yk3gOo'
-global.github = 'https://bit.ly/3FqVBj8'
-global.noown = 'https://wa.me/6282399255216'
+global.email = 'gilzzbotz@gmail.com'
+global.group = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
+global.youtube = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
+global.website = 'https://lynk.id/gilzzx'
+global.github = 'https://github.com/gilzzbotz'
+global.noown = 'https://wa.me/6285730794089'
 global.region = 'I`m From Indonesia'
-global.prefa = ['','!','.','#','-','�?']
+global.prefa = ['','!','.','#','-','�?']
 global.api = 
 {
     success: '```Success✅```',
